@@ -9,7 +9,7 @@ A fully functional, multi-page Human Resource Management System (HRMS) frontend 
  Responsive 
 ✨ Features
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-21 025312" src="https://github.com/user-attachments/assets/07e29071-cf8c-4633-a835-6552f160862a" />
+<img width="1916" height="1028" alt="Screenshot 2026-07-21 025258" src="https://github.com/user-attachments/assets/fd15e886-dc94-43f3-985f-f0b8cf8258c1" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-21 025312" src="https://github.com/user-attachments/assets/0a14bcec-98a9-4b82-99b7-72647dbeb45c" />
 
 
